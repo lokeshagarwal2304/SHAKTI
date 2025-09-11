@@ -1,4 +1,4 @@
-# SHAKTI ....
+# SHAKTI .... safety prototype
 A women-for-women mobility and safety prototype that integrates ride support, AI-driven WhatsApp bot assistance, and real-time safety features. Built as a social-impact project to empower safe, trusted, and independent travel.
 
 <img width="200" height="600" alt="Main Theme" src="https://github.com/user-attachments/assets/6aa1b7c4-6f7f-4c1a-aaf3-5c3a843695b3" />
