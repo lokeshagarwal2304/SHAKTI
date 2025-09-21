@@ -6,3 +6,4 @@ A women-for-women mobility and safety prototype that integrates ride support, AI
 <img width="200" height="600" alt="Roles" src="https://github.com/user-attachments/assets/39f9ab1d-138c-4ded-a3cb-da33f29d2fcf" />
  
 Update coming soon
+We team are unable to cope up, still we are giving our best
